@@ -805,6 +805,9 @@ input[type=submit] {
         height: 27vh;
         width: 50vw;
     }
+    h1 {
+        text-align: center;
+    }
 }
 
 @media (max-width:690px) {
